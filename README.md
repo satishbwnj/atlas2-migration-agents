@@ -50,5 +50,5 @@ This is **just the shell**.
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/your-team/atlas2-migration-agents.git
+git clone https://github.com/satishbwnj/atlas2-migration-agents.git
 cd atlas2-migration-agents
