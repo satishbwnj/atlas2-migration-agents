@@ -1,6 +1,6 @@
 # 🧠 Atlas 2.0 Multi-Agent Migration Shell
 
-This repository contains the **foundational shell** for a multi-agent based migration assistant, purpose-built to support the **JPMC Hackathon** project titled:
+This repository contains the **foundational shell** for a multi-agent based migration assistant, purpose-built to support the **Hackathon** project titled:
 
 ### 📌 *Leveraging Multiple Large Language Model (LLM) Agents and Workflow for Atlas 2.0 Migration*
 
@@ -8,7 +8,7 @@ This repository contains the **foundational shell** for a multi-agent based migr
 
 ## 🧭 Project Context
 
-In the vast landscape of **JPMC’s AWS platform**, Atlas 1 currently hosts over a thousand production-grade applications. The firm’s migration to **Atlas 2.0**—a modern cloud-native framework—demands tools that support not only application migration but also **data center to cloud**, **compute transitions**, and **automated infrastructure transformations**.
+In the vast landscape of **AWS platform**, Atlas 1 currently hosts over a thousand production-grade applications. The firm’s migration to **Atlas 2.0**—a modern cloud-native framework—demands tools that support not only application migration but also **data center to cloud**, **compute transitions**, and **automated infrastructure transformations**.
 
 This shell establishes a fully working prototype that simulates:
 - **Discovery of legacy infrastructure**
@@ -42,7 +42,7 @@ This is **just the shell**.
 - LLMs will **coordinate and decide** which agents to run, in what order.
 - The system will support **self-healing**, automatically adjusting plans or retries on failure.
 - Engineers can chat with the LLM to gain insights or trigger custom flows.
-- Future enhancements include **Agent Autonomy** (using CrewAI or LangChain), integration with **internal JPMC APIs**, and **multi-region validation**.
+- Future enhancements include **Agent Autonomy** (using CrewAI or LangChain), integration with **internal APIs**, and **multi-region validation**.
 
 ---
 
