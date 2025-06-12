@@ -14,5 +14,6 @@ python-dotenv==1.0.1
 # JSON validation/manipulation
 jsonschema==4.22.0
 
+
 # Other utilities
 requests==2.31.0
